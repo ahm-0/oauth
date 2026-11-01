@@ -1,12 +1,12 @@
 # بنك الأسئلة الاكاديمي
 
-Public bilingual information pages for the educational Android app.
+Public bilingual OAuth brand-review website for the educational Android app.
 
 - Homepage: https://ahm-0.github.io/oauth/
 - Privacy policy: https://ahm-0.github.io/oauth/privacy.html
 - Terms of service: https://ahm-0.github.io/oauth/terms.html
 - Support and deletion requests: https://ahm-0.github.io/oauth/support.html
-- App website: https://aqb-beta.vercel.app/
-- Proposed authorized domain, only if ownership is verified: `ahm-0.github.io`
+- Published app website: https://aqb-beta.vercel.app/
+- Search Console verification meta tag is included in `index.html`.
 
-Before OAuth review, confirm that every privacy disclosure matches the app's actual OAuth scopes, data storage, retention, and service providers. GitHub Pages must be enabled, and Google requires ownership verification of the authorized domain.
+The policy text must match the app's actual OAuth scopes, storage, service providers, retention, and deletion implementation before verification is submitted.
